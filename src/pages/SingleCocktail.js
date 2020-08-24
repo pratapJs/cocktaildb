@@ -80,7 +80,6 @@ const SingleCocktail = () => {
     } = cocktail;
     return (
       <section className='section cocktail-section'>
-        <h1>hello from SingleCocktail page id:{id}</h1>
         <Link to='/' className='btn btn-primary'>
           back to home
         </Link>
